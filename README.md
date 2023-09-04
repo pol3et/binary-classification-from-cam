@@ -8,5 +8,5 @@
 4. После этого можно включить автоматическое распознование для детекции в реальном времени, либо показывайте объект в камеру и нажимайте "Распознать объект" для единичного распознавания.
 
 Пример использования:
-![screenshot_1](https://drive.google.com/file/d/1QLoRKyVhWEtcvNihzOsY7UJkPauh7ma9/view?usp=sharing)
-![screenshot_2](https://drive.google.com/file/d/1TKZYVZindruYL6_iI40FVxgts-KGHAr_/view?usp=sharing)
+![screenshot_1](https://lh3.googleusercontent.com/drive-viewer/AITFw-wkAgplZqZ4snbUllKE9XwRNK8VOSwIGM_2u_A8MPXrZ6K_d5F-aGDM4up-Yrmbq7DuBEWRgoZVuMwytfqtYYhAoihTDA=s1600)
+![screenshot_2](https://lh3.googleusercontent.com/drive-viewer/AITFw-y_zj7d08V4FW_b0RtsN2wxe_Jw5sK9oSgVMJIG1THebrHbM7fxPDje9BQ93r22R4giCufXgKSZS8WaK73L4NKVID-O=s1600)
